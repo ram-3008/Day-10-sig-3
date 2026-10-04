@@ -20,4 +20,5 @@ Paste sketch.ino and diagram.json into their matching tabs.
 Set model_weight and model_bias in sketch.ino to the values printed by Colab.
 Start the simulation and view the results in the Serial Monitor.
 Wokwi Simulation
+
 Run the simulation[https://wokwi.com/projects/476963317083969537]
